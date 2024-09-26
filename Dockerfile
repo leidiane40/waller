@@ -1,4 +1,4 @@
-=======
+
 # Use a imagem base do PHP com Apache
 FROM php:7.4-apache
 
